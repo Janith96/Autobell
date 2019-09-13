@@ -1,6 +1,7 @@
 # Autobell
 Autobell is an automated bell system for schools created by Janith Udayanga in 2014.
 
+A Complete Description available at <a href="https://janithudayanga.com/portfolio-items/janith-udayanga-project-autobell-automated-bell-system/">Janith Udayanga</a> (The developer's website).
 
 Requirements
 ----------------
