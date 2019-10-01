@@ -16,7 +16,7 @@ Two level user management with password protection
 
 Users can set up-to 16 different bell times
 
-Automatic computer shutdown
+Automatic computer shutdown at a preconfigured time
 
 Can play up-to 8 different tracks
 
