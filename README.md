@@ -23,3 +23,8 @@ Can play up-to 8 different tracks
 Users can create two different bell time tables & switch between them
 
 Smart in-app notifications
+
+
+# For Hacktoberfest Participants
+Please do not open pull requests for typos in readme or changes in documentation.
+Any bugfixes, new feautures or any helpful contributions are welcome!
